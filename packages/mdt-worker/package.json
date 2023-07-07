@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "mdt-workflows": "*",
-    "temporalio": "^0.22.0"
+    "temporalio": "^1.0.0"
   },
   "devDependencies": {
     "@tsconfig/node16": "^1.0.2",
